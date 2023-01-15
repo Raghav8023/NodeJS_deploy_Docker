@@ -1,0 +1,2 @@
+I have taken simple NodeJS application with database which shows 'Hello World' when we hit this URL
+http://node-alb-1783967393.ap-south-1.elb.amazonaws.com/
